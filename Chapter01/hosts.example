@@ -1,0 +1,10 @@
+anasiblevm ansible_host=192.168.64.4.nip.io
+
+[ansible_hosts]
+anasiblevm
+
+[ansible_hosts:vars]
+ansible_connection=ssh
+ansible_user=vmadmin
+ansible_private_key_file=./user_key
+host_key_checking=False

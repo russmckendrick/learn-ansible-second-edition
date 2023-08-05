@@ -1,4 +1,4 @@
-anasiblevm ansible_host=192.168.64.6.nip.io
+anasiblevm ansible_host=paste_your_ip_here.nip.io
 
 [ansible_hosts]
 anasiblevm

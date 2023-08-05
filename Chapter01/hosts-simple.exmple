@@ -1,1 +1,1 @@
-192.168.64.6.nip.io ansible_user=vmadmin ansible_private_key_file=./user_key
+paste_your_ip_here.nip.io ansible_user=vmadmin ansible_private_key_file=./user_key

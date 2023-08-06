@@ -1,7 +1,7 @@
-anasiblevm ansible_host=paste_your_ip_here.nip.io
+ansiblevm ansible_host=paste_your_ip_here.nip.io
 
 [ansible_hosts]
-anasiblevm
+ansiblevm
 
 [ansible_hosts:vars]
 ansible_connection=ssh

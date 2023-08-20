@@ -5,6 +5,6 @@
   become_method: sudo
 
   roles:
-    - itnok.update_ubuntu
-    - geerlingguy.nginx
-    - russmckendrick.ansible_role_learnansible_example
+    - "itnok.update_ubuntu"
+    - "geerlingguy.nginx"
+    - "russmckendrick.ansible_role_learnansible_example"

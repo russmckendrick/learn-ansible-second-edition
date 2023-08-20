@@ -1,7 +1,7 @@
 galaxy_info:
   author: "Russ McKendrick"
   description: "Example role to accompany Learn Ansible (Second Edition)"
-  issue_tracker_url: http://example.com/issue/tracker
+  issue_tracker_url: "https://github.com/russmckendrick/ansible-role-learnansible-example/issues"
   license: "license (BSD-3-Clause)"
   min_ansible_version: "2.9"
   platforms:

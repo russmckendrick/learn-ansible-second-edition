@@ -1,0 +1,16 @@
+galaxy_info:
+  author: "Russ McKendrick"
+  description: "Example role to accompany Learn Ansible (Second Edition)"
+  issue_tracker_url: http://example.com/issue/tracker
+  license: "license (BSD-3-Clause)"
+  min_ansible_version: "2.9"
+  platforms:
+    - name: "Ubuntu"
+      versions:
+        - "22.04"
+
+  galaxy_tags:
+    - "ntp"
+    - "time"
+    - "example"
+  dependencies: []

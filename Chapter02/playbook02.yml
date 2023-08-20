@@ -5,4 +5,5 @@
   become_method: sudo
 
   roles:
-    - roles/learnansible-example-role
+    - itnok.update_ubuntu
+    - geerlingguy.nginx

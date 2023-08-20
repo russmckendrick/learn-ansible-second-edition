@@ -7,3 +7,4 @@
   roles:
     - itnok.update_ubuntu
     - geerlingguy.nginx
+    - russmckendrick.ansible_role_learnansible_example

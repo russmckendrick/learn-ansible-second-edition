@@ -31,7 +31,7 @@ An example playbook can be found below;
   become_method: sudo
 
   roles:
-      - russmckendrick.learnansible-example-role
+      - russmckendrick.ansible_role_learnansible_example
 ```
 
 License

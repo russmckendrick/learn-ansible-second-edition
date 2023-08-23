@@ -1,7 +1,12 @@
 ### Ansible ###
+
+# Ignore these files
 hosts
 hosts-simple
 *.retry
+
+# But include these files
+!Chapter03/ansible/hosts
 
 ### vscode ###
 .vscode
